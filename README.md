@@ -1,2 +1,2 @@
 # YouTubeMobile
-An youtube client for tablets
+An youtube client for tablets and phones
